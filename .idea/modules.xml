@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/it-school.iml" filepath="$PROJECT_DIR$/it-school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seseion9/seseion9.iml" filepath="$PROJECT_DIR$/seseion9/seseion9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesion.5.1/sesion.5.1.iml" filepath="$PROJECT_DIR$/sesion.5.1/sesion.5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesion10/sesion10.iml" filepath="$PROJECT_DIR$/sesion10/sesion10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesion4/sesion4.iml" filepath="$PROJECT_DIR$/sesion4/sesion4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesion6/sesion6.iml" filepath="$PROJECT_DIR$/sesion6/sesion6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesion8/sesion8.iml" filepath="$PROJECT_DIR$/sesion8/sesion8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session11/session11.iml" filepath="$PROJECT_DIR$/session11/session11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session7/session7.iml" filepath="$PROJECT_DIR$/session7/session7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session5/src/src.iml" filepath="$PROJECT_DIR$/session5/src/src.iml" />
+    </modules>
+  </component>
+</project>
